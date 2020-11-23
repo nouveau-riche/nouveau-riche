@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 	<a href="https://github.com/nouveau-riche"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nikunj-sharma-136182194/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/_nikunjjsharma/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://icons8.com/icon/111593/portfolio">Portfolio icon by Icons8</a>
 	<a href="https://twitter.com/Nikunjs07673277"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://nouveau-riche.github.io/"><img src="https://icons8.com/icon/111593/portfolio" alt="Portfolio"/>Portfolio</a>
 </p>
