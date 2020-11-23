@@ -3,7 +3,7 @@
 
 ![alt text](./images/top.svg)
 
-I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
+I love building Mobile Application using Flutter.
 
 <!--
 **nouveau-riche/nouveau-riche**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,17 +20,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Python.
-- 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
-- :pencil2: I Write blogs on dev.to on free days.
-- :musical_note: I love to hear country music.
+- 👯 I’m looking to collaborate on projects that are using Flutter.
+- 🌱 I’m currently learning Flutter and Competative Programming.
+- 📫 How to reach me: nikunjsha02@gmail.com
+- 😄 Pronouns: He/Him
 
 
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/nouveau-riche"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nikunj-sharma-136182194/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/_nikunjjsharma/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/Nikunjs07673277"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
