@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Flutter.
 - 🌱 I’m currently learning Flutter and Competative Programming.
-- 📫 How to reach me: nikunjsha02@gmail.com
+- 📫 How to reach me: https://nouveau-riche.github.io/
 - 😄 Pronouns: He/Him
 
 
@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/nikunj-sharma-136182194/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/_nikunjjsharma/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/Nikunjs07673277"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-	<a href="https://nouveau-riche.github.io/"><img src="https://icons8.com/icon/111593/portfolio" alt="Portfolio"/>Portfolio</a>
 </p>
 
 ![alt text](./images/bottom.svg)
