@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  ### ⭐ GitHub Stats
 
  <p> 
-    <img src="https://github-readme-stats.vercel.app/api?username=nouveau-riche&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=nouveau-riche&count_private=true&show_icons=true&theme=default&line" alt="devded" width="420"/> 
  </p>
 
 
