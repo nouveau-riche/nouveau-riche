@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 
  ### ⭐ GitHub Stats
 
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=devded&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devded&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
+ <p> 
+    <img src="https://github-readme-stats.vercel.app/api?username=nouveau-riche&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
  </p>
 
 
