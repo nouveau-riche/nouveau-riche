@@ -1,5 +1,5 @@
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Nikunj Sharma 👨‍💻
+## Hi, I am Nikunj Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
 
 
 ![alt text](./images/top.svg)
