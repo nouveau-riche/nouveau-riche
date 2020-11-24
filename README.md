@@ -1,9 +1,10 @@
-### Hi there 👋
+
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Nikunj Sharma 👨‍💻
 
 
 ![alt text](./images/top.svg)
 
-I love building Mobile Application using Flutter.
+I love  building Mobile Application using Flutter.
 
 <!--
 **nouveau-riche/nouveau-riche**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Fun fact:
+⚡ Tech Stack:
 - 👯 I’m looking to collaborate on projects that are using Flutter.
 - 🌱 I’m currently learning Flutter and Competative Programming.
 - 📫 How to reach me: https://nouveau-riche.github.io/
