@@ -6,6 +6,7 @@ I love  building Mobile Application using Flutter.
 ⚡ Fun Facts:
 - 👯 Open to collaborate on projects that are using Flutter.
 - 🌱 I’m currently learning Flutter and Competative Programming.
+- 🥅 2021 Goals: To get strong on concepts of DSA and get a decent SDE Intern.
 - 📫 How to reach me: https://nouveau-riche.github.io
 - 😄 Pronouns: He/Him
 
