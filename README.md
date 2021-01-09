@@ -4,7 +4,7 @@
 I love  building Mobile Application using Flutter.
 
 ⚡ Fun Facts:
-- 👯 I’m looking to collaborate on projects that are using Flutter.
+- 👯 Open to collaborate on projects that are using Flutter.
 - 🌱 I’m currently learning Flutter and Competative Programming.
 - 📫 How to reach me: https://nouveau-riche.github.io
 - 😄 Pronouns: He/Him
