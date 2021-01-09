@@ -21,5 +21,4 @@ I love  building Mobile Application using Flutter.
 	<a href="https://www.linkedin.com/in/nikunj-sharma-136182194/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/_nikunjjsharma/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/Nikunjs07673277"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-	<a href="https://www.youtube.com/channel/UCS2bItFPxtIf-Zqtqd_YtNw"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 </p>
