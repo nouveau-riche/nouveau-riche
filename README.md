@@ -1,11 +1,11 @@
 
 ## Hi, I am Nikunj Sharma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
 
-I love  building Mobile Application using Flutter.
+I love building Cross - Platform Mobile Application using Flutter.
 
 ⚡ Fun Facts:
 - 👯 Open to collaborate on projects that are using Flutter.
-- 🌱 I’m currently learning Flutter and Competative Programming.
+- 🌱 I’m currently working on flutter projects and problem solving skills.
 - 🥅 2021 Goals: To get strong on concepts of DSA and get a decent SDE Intern.
 - 📫 How to reach me: https://nouveau-riche.github.io
 - 😄 Pronouns: He/Him
