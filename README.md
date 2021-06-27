@@ -6,7 +6,7 @@ I love building Cross - Platform Mobile Application using Flutter.
 ⚡ Fun Facts:
 - 👯 Open to collaborate on projects that are using Flutter.
 - 🌱 I’m currently working on flutter projects and problem solving skills.
-- 🥅 2021 Goals: To get strong on concepts of DSA and get a decent SDE Intern.
+- 🥅 2022 Goals: To get strong on concepts of DSA and get a decent SDE Intern.
 - 📫 How to reach me: https://nouveau-riche.github.io
 - 😄 Pronouns: He/Him
 
