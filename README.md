@@ -13,7 +13,7 @@ I love building Cross - Platform Mobile Application using Flutter.
  ### ⭐ GitHub Stats
 
  <p> 
-    <img src="https://github-readme-stats.vercel.app/api?username=nouveau-riche&count_private=true&show_icons=true&theme=default&line" alt="Nikunj Stats" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=nouveau-riche&count_private=true&show_icons=true&theme=default&line&count_private=true" alt="Nikunj Stats" width="420"/> 
  </p>
 
 ### Let's Connect :coffee:
