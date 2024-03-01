@@ -6,7 +6,7 @@ I love building Cross - Platform Mobile Application using Flutter.
 ⚡ Fun Facts:
 - 👯 Open to collaborate on projects that are using Flutter.
 - 🌱 I’m currently working on flutter projects and problem solving skills.
-- 🥅 2023 Goals: Acheive best things at my work.
+- 🥅 2024 Goals: Acheive best things at my work.
 - 📫 How to reach me: https://nouveau-riche.github.io
 - 😄 Pronouns: He/Him
 
